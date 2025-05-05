@@ -36,5 +36,12 @@ Imagine a printer queue where multiple print jobs arrive at different times. Thi
 3. Calculates completion, turnaround, and waiting times
 4. Prints results in tabular form
 
-## 🧾 Example Output
+
+## ▶️ How to Run
+
+1. Clone this repository:
+```bash
+git clone https://github.com/SaraCh28/printing-task-scheduler-
+
+
 
